@@ -3,7 +3,7 @@ aniso8601==8.0.0
 astroid==2.3.3
 autopep8==1.4.4
 Click==7.0
-Flask==1.1.1
+Flask==2.3.2
 Flask-HTTPAuth==3.3.0
 Flask-Login==0.4.1
 flask-marshmallow==0.10.1
